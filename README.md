@@ -12,7 +12,8 @@ Options are powerful financial instruments, but pricing them can feel like solvi
 
 We simulate thousands of possible stock price paths, each one a journey through time, influenced by volatility, interest rates, and market forces. From these, we distill the expected payoff and discount it to the present to reveal the option’s true value.
 
-![Diagram of Project Architecture](Monte Carlo .svg)
+![Monte Carlo ](https://github.com/user-attachments/assets/14d49f2d-eaa2-4505-80a1-101ca9114cae)
+
 
 
 
